@@ -18,7 +18,7 @@ email: hello@patrickmetcalfe.com
 description: > # this means to ignore newlines until "baseurl:"
   We are still working on this blog but I am putting it live so
   that I actually write and don't forget about it.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://patrickmetcalfe.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pducks32
 github_username:  pducks32
