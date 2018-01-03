@@ -25,7 +25,7 @@ github_username:  pducks32
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: pducks-theme
 gems:
   - jekyll-feed
 exclude:
