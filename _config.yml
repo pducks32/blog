@@ -24,6 +24,7 @@ twitter_username: pducks32
 github_username:  pducks32
 google_analytics: UA-46794588-1
 
+
 # Build settings
 markdown: kramdown
 theme: pducks-theme
